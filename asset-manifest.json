@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Papa/static/css/main.9a8561ad.css",
+    "main.js": "/Papa/static/js/main.c48f54b8.js",
+    "static/js/488.e75445ad.chunk.js": "/Papa/static/js/488.e75445ad.chunk.js",
+    "static/media/image3.png": "/Papa/static/media/image3.20c3dadb948a77729a83.png",
+    "static/media/image4.png": "/Papa/static/media/image4.de00fe6ca7315417df51.png",
+    "static/media/image5.png": "/Papa/static/media/image5.408e81516541fcb7882d.png",
+    "static/media/image6.png": "/Papa/static/media/image6.4d998b7698ba9b8c02ec.png",
+    "static/media/image7.png": "/Papa/static/media/image7.c4ed6d67019fdbc45598.png",
+    "static/media/image8.png": "/Papa/static/media/image8.c252c42a8ca47050d81b.png",
+    "static/media/image1.png": "/Papa/static/media/image1.ef09f7daba45199c6588.png",
+    "static/media/image2.png": "/Papa/static/media/image2.8bf8c39afdfb65d2b699.png",
+    "static/media/papahero.jpeg": "/Papa/static/media/papahero.02acef188c100a46f738.jpeg",
+    "static/media/heropapa.jpeg": "/Papa/static/media/heropapa.bb045b82da83a2a1d5be.jpeg",
+    "index.html": "/Papa/index.html",
+    "main.9a8561ad.css.map": "/Papa/static/css/main.9a8561ad.css.map",
+    "main.c48f54b8.js.map": "/Papa/static/js/main.c48f54b8.js.map",
+    "488.e75445ad.chunk.js.map": "/Papa/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8561ad.css",
+    "static/js/main.c48f54b8.js"
+  ]
+}
